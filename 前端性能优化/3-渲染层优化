@@ -1,0 +1,11 @@
+1、js放底部，css放顶部
+
+2、减少重绘和回流
+
+3、合理使用Viewport 等meta头部
+
+4、减少dom节点
+
+5、BigPipe
+
+
